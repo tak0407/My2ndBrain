@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "d94be524549b1264",
+    "type": "split",
+    "children": [
+      {
+        "id": "a407c04d07330cd0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "1️⃣ 🌱 Fleeting Notes/제텔카스텐 방법에는 3가지 메모 방식이 있다..md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "66df2ecf0fcc7752",
+    "type": "split",
+    "children": [
+      {
+        "id": "76da73ba0e2b623d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4155a855bd76a693",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ecdc8f1045079bfa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a723cb9600438eca",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "22a2a6d06a5b6afb",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b7766ab341446ef3",
+    "type": "split",
+    "children": [
+      {
+        "id": "88a61e2e2fede7a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9ffbaff03353ae1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1️⃣ 🌱 Fleeting Notes/제텔카스텐 방법에는 3가지 메모 방식이 있다..md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8954ea381ff541ba",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1️⃣ 🌱 Fleeting Notes/제텔카스텐 방법에는 3가지 메모 방식이 있다..md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2132ae3d08f58e7f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "11453aeef6a2bd1e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1️⃣ 🌱 Fleeting Notes/제텔카스텐 방법에는 3가지 메모 방식이 있다..md"
+              }
+            }
+          },
+          {
+            "id": "e78e535a3b0f6b42",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "209b0735432278c7",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "3999ad616f47c1e6",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "a407c04d07330cd0",
+  "lastOpenFiles": [
+    "1️⃣ 🌱 Fleeting Notes/제텔카스텐 방법은 나만의 백과사전을 만드는 것이다..md",
+    "1️⃣ 🌱 Fleeting Notes/태블릿은 주로 6 ~ 8 Column으로 작업한다..md",
+    "1️⃣ 🌱 Fleeting Notes/회사에서 주문한 UX 관련 도서를 읽어야한다..md",
+    "1️⃣ 🌱 Fleeting Notes/캔들은 몸통과 꼬리로 이루어져있다..md",
+    "1️⃣ 🌱 Fleeting Notes/제텔카스텐 방법에는 3가지 메모 방식이 있다..md",
+    "1️⃣ 🌱 Fleeting Notes/옵시디언 테마 중에서는 California Coast가 가장 나은 것 같다..md",
+    "1️⃣ 🌱 Fleeting Notes/에버그린노트에 대해서.md",
+    "1️⃣ 🌱 Fleeting Notes/스큐어모피즘은 현실에 있는 물체를 사실적으로 표현한다..md",
+    "5️⃣ ✅ Kanban.md",
+    "1️⃣ 🌱 Fleeting Notes/나에게 맞는 방식의 옵시디언을 구축하자..md"
+  ]
+}
