@@ -2,5 +2,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "1️⃣ 🌱 Fleeting Notes",
   "attachmentFolderPath": "Attachment",
-  "fileSortOrder": "alphabetical"
+  "fileSortOrder": "alphabetical",
+  "promptDelete": false
 }
